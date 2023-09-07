@@ -13,7 +13,7 @@ Install the required dependencies using the following command: $ npm i
 
 Start the application using the following command: $ npm start
 
-Open the application in your postman app by visiting the following URL: http://localhost:8010
+Open the application in your postman app by visiting the following URL: http://localhost:8001
 
 ##Features:
 
