@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  },
+  "name": "hospitalapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arunava Saha",
+  "license": "ISC",
+  "description": ""
+}
