@@ -3,7 +3,7 @@
 This project is a Hospital an API for the doctors of a Hospital which has been allocated by the
 govt for testing and quarantine + well being of COVID-19 patients
 
-##Installation
+## Installation
 
 To run this application on your local machine, please follow these steps:
 
@@ -15,7 +15,7 @@ Start the application using the following command: $ npm start
 
 Open the application in your postman app by visiting the following URL: http://localhost:8001
 
-##Features:
+## Features:
 
 - There can be 2 types of Users
 
@@ -40,7 +40,7 @@ Open the application in your postman app by visiting the following URL: http://l
 
 3. Date
 
-##Routes:
+## Routes:
 
 - /doctors/register → with username and password
 - /doctors/login → returns the JWT to be used
